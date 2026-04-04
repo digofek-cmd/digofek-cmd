@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨🏼‍💻 Rodriguin Oliveira
 
-<!--
-**digofek-cmd/digofek-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Java`**
 
-Here are some ideas to get you started:
+Sou desenvolvedor iniciante com foco em Java e Spring Boot, movido pela curiosidade de aprender e evoluir constantemente.
+Tenho interesse no desenvolvimento de APIs e estou sempre buscando melhorar minhas habilidades na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo Java, Spring Boot e Git, desenvolvendo projetos próprios para ganhar experiência prática.
+
+Sou dedicado, gosto de resolver problemas e busco escrever código cada vez mais limpo e organizado.
+
+## 🎓 Linguagens e Tecnologias
+
+ <p alig= "left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" style="margin-right: 10px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="35" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" style="margin-right: 50px;" />
+ 
+ </p>
