@@ -10,16 +10,4 @@ Atualmente estudo Java, Spring Boot e Git, desenvolvendo projetos próprios para
 Sou dedicado, gosto de resolver problemas e busco escrever código cada vez mais limpo e organizado.
 
 ## 🎓 Linguagens e Tecnologias
-
-<p alig= "left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" style="margin-right: 15px;"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" style="margin-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" style="margin-right: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  height="45" style="margin-right: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="40" style="margin-right: 50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" style="margin-right:50px;" />
-          
-          
-  
- </p>
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,)](https://skillicons.dev)
