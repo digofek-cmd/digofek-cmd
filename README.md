@@ -9,5 +9,5 @@ Atualmente estudo Java, Spring Boot e Git, desenvolvendo projetos próprios para
 
 Sou dedicado, gosto de resolver problemas e busco escrever código cada vez mais limpo e organizado.
 
-## 🎓 Linguagens e Tecnologias
+## 🎓 Idiomas e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,)](https://skillicons.dev)
