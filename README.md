@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Rodriguin Oliveira
+# 👨🏼‍💻 Rodrigo Rodrigues de Oliveira:
 
 **`Desenvolvedor Java`**
 
@@ -9,5 +9,5 @@ Atualmente estudo Java, Spring Boot e Git, desenvolvendo projetos próprios para
 
 Sou dedicado, gosto de resolver problemas e busco escrever código cada vez mais limpo e organizado.
 
-## 🎓 Idiomas e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,)](https://skillicons.dev)
+# 🚀 Idiomas e Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,docker,linkedin,gmail,)](https://skillicons.dev)
