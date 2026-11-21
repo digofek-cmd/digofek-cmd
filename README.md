@@ -1,4 +1,4 @@
-<h1 align="center"> 👨🏻‍💻 Rodrigo de Oliveira</h1>
+<h1 align="center"> 👨🏻‍💻 Rodrigo de Oliveira <img src="spiderweb-73820.gif" width="60"> </h1>
 
 **`Desenvolvedor Java`**
 
