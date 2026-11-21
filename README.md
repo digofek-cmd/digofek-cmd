@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-<h1 align="center">  width="75"> <img src="ANAKIN.png" width="75px"> <img src="darthvader.png" width="75px"> </h1>
+<h1 align="center">  <img src="ANAKIN.png" width="75px"> <img src="darthvader.png" width="75px"> </h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
