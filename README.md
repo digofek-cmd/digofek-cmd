@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Java`**
 
-<h1 align="center"> <img src="ANAKIN.png" width="75px"> <img src="darthvader.png" width="75px"> </h1>
+<h1 align="center"> <img src= "imagem/erhwae8.gif" width="75"> <img src="ANAKIN.png" width="75px"> <img src="darthvader.png" width="75px"> </h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
 <p align="center">
-  <a href="mailto:rodriguinoli11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rodrigo-oliveira-a86b923a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:rodriguinoli11@gmail.com"><img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-oliveira-a86b923a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 
